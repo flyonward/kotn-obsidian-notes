@@ -1,0 +1,1 @@
+<small><sub><sup><% tp.file.selection() %><% tp.file.cursor() %></sup></sub></small>
