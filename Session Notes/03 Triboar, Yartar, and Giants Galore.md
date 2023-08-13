@@ -73,6 +73,8 @@ Before the sun rises, the Party is abruptly awoken by the sounds of screaming ho
 Equipped with the keen nose of a sabretooth tiger, Beltane catches the sent of trolls emanating from within. Rounding the corner, Beltane spots a pair of trolls beyond the broken walls and leaps into action, the rest of the Party following behind. Through their encounter, the Party learns that trolls have high regenerative capabilities, rendering them essentially immortal unless killed by fire or acid. Still, the Party emerges triumphant, bringing a semblance of peace to [[Calling Horns]]. [[Tamalin Zoar|Tamalin]] thanks the party for defending her town. <small><sub><sup>Editor's notes: will Tamalin reward the Party with the letter of recommendation that she promised? Find out next time!</sup></sub></small>
 
 After completing the escort of [[Udomorn]] to [[Calling Horns]], the Party decides against immediately heading into the [[Evermoors]], first stopping by [[Noanar's Hold]] to deliver their cargo. The Party also convinced [[Udomorn]] to tag along as well.
+
+![[TravelLog-03a.png]]
 ### Noanar's Hold
 [[Noanar's Hold]] is a small, spooky village with rattled folk and a shuttered keep that stands on a hill overlooking the village. The Party delivers the cargo to the groundskeeper of the Keep, who accepted the package but promptly shoo'd them off. Later that night, the Party heads to the [[White Hart Inn]] in search of respite from traveling. Opening the doors to the inn, they are met with a scene most peculiar - while patrons are seated at tables, chatting and dining as one would expect, a plethora of plates, glasses, mugs, and cutlery float about in the air moving throughout the inn on their own. The innkeeper catches their surprise and explain that the inn is ran with an army of permanently-summoned **Unseen Servants**. The innkeeper also warns the group from travelling at night; there are rumors of a group of undead hunters who prey on those from outside [[Noanar's Hold]]. The group also meet three noble brothers from [[Neverwinter]] who are planning to embark on an expedition to hunt a hill giant the next morning.
 
@@ -83,11 +85,4 @@ The [[Evermoors]] is an area comprised of hills, troughs, chilly bogs, and swamp
 Venturing deeper into the lair, the Party finds a fire giant holding what looks to be a [[Rod of Vonindod]]. Accompanying the fire giant is a troll, collared and on a leash - a pet? The group tries to avoid catching the attention of the giant by using Safaerys' `Pass Without a Trace`, but they are still spotted. Despite suffering considerable damage and Caine nearly falling in battle, the Party defeats the giant and her pet troll and clutches onto victory. From the giant, the group loots a sack of random items including a pig named [[Not Food]]. [[Not Food]] takes a liking to Caine.
 ### Calling Horns
 Back at [[Calling Horns]], the Party meets with [[Tamalin Zoar]] and advises of the presence of fire giants in the [[Evermoors]], the [[Rod of Vonindod]], and the giants' search for adamantium constructs. [[Tamalin Zoar|Tamalin]] writes them a *letter of recommendation* to her friend in Everlund, [[Dral Thelev]] - the same person that [[Darathra Shendrel]], leader of [[Triboar]], urged the group to seek out in regards to the [[Rod of Vonindod]]. 
-
-
-
-## Last Session Recap
-
-
-## Detailed Log / Moment-To-Moments
 

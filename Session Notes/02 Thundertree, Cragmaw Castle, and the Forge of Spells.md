@@ -54,3 +54,5 @@ After the battle, Safaearys and Wolftane lead the party northeast where the path
 The Party happen upon and fight through bugbears, a bugbear overseer, and giant spiders. In the corner of the far room, they find the body of a dwarf lying on the floor, unconscious. After fighting giant spiders, the body of the dwarf disappears - it was [[The Black Spider]] in disguise. [[Yue]] lands the finishing blow. Behind the locked door, the Party finds Nundro, [[Gundren]]'s other brother, unconscious but alive.
 
 The Party head back to [[Phandalin]] with Nundro in tow, reuniting [[Gundren]] and his brother. [[Halia Thornton]] meet with the Party and gives a quest located in [[Triboar]].
+
+![[TravelLog-02.png]]
